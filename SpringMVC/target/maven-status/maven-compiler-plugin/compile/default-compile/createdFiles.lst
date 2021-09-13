@@ -1,0 +1,5 @@
+ru\gb\source\ProductRepository.class
+ru\gb\config\AppInit.class
+ru\gb\config\WebConfig.class
+ru\gb\source\Product.class
+ru\gb\controller\HelloController.class
